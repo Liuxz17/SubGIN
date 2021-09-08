@@ -1,25 +1,21 @@
 Best Wishes to Prof. Yang 
 ===================================
 
-This repository provides a python Implementation of **Happy Teachers’ Day to Prof. Yang (NIPS 2021)**.
+This repository provides a **Python** Implementation of **Happy Teachers’ Day to Prof. Yang (2021)**.
 
 <div style="text-align:center"><img src ="Happy_Teachers_Day.png" ,width=800/></div>
 
 ### Abstract 
-The paper **Happy Teachers’ Day to Prof.Yang(NIPS2020)** yields state-of-the-art results in wishes modeling. We further improve it with more active ways. In particular, we make a video to celebrate Teachers’ Day for Prof. Yang. Thanks for Prof. Yang’s guidance and hard work, our group become more and more energetic, positive and united. For all the great things he say and do, we start and go far on the road of scientific research. In this special day, all the group members wish Prof. Yang happiness and prosperity. The code for our model is available at https://github.com/openai/glow.
+The paper **Happy Teachers’ Day to Prof.Yang (2020)** yields state-of-the-art results in wishes modeling. However, the existing work needs more necessary implementation and multimedia presentation. Inspired by this, we further propose **Happy Teachers’ Day to Prof.Yang (2021)** with more active ways. In particular, we complete the simulation of the 1919 athletes' happy daily life under the guidance of Prof.Yang and make a video to celebrate Teachers’ Day for Prof. Yang. 
+Thanks for Prof. Yang’s guidance and hard work, our group become more and more energetic, positive and united. For all the great things he say and do, we start and go far on the road of scientific research. In this special day, all the group members wish Prof. Yang happiness and prosperity. The code for our model is available at https://github.com/openai/glow.
 
-This repository provides an implementation of Best Wishes as described in the paper:
 
 ### Requirements
 
-The codebase is implemented in 1919 Intelligent Computing Lab, package versions used for development are just below.
-```
-Hardworking       10.0.0
-Energetic         9.9.9
-Positive          20.2.1
-Meaningful        9.1.0
+The only requirement of this implementation is the presence of Prof.Yang. ^^
 
-```
+The codebase is implemented in 1919 Intelligent Computing Lab, package versions used for development are just below.
+
 ### Datasets
 <p align="justify">
 The code takes an input graph in a csv file. Every row indicates an edge between two nodes separated by a comma. The first row is a header. Nodes should be indexed starting with 0. Sample graphs for the `Twitch Brasilians` and `Wikipedia Chameleons` are included in the  `input/` directory. 
