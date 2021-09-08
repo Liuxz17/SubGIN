@@ -3,7 +3,7 @@ Best Wishes to Prof. Yang
 
 This repository provides a python Implementation of **Happy Teachers’ Day to Prof. Yang (NIPS 2021)**.
 
-<div style="text-align:center"><img src ="Happy_Teachers_Day.png" ,width=600/></div>
+<div style="text-align:center"><img src ="Happy_Teachers_Day.png" ,width=800/></div>
 
 ### Abstract 
 The paper **Happy Teachers’ Day to Prof.Yang(NIPS2020)** yields state-of-the-art results in wishes modeling. We further improve it with more active ways. In particular, we make a video to celebrate Teachers’ Day for Prof. Yang. Thanks for Prof. Yang’s guidance and hard work, our group become more and more energetic, positive and united. For all the great things he say and do, we start and go far on the road of scientific research. In this special day, all the group members wish Prof. Yang happiness and prosperity. The code for our model is available at https://github.com/openai/glow.
