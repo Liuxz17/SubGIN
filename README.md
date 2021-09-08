@@ -26,4 +26,4 @@ conda install tqdm
 ```
 python train.py
 ```
-- Accept the best wishes from 1919 Atheletes. ^^
+- Accept the best wishes from 1919 Atheletes!
